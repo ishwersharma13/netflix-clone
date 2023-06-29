@@ -4,7 +4,7 @@ This project is a Netflix clone built using React and the IMDb API. It aims to r
 
 ## Features
 
-- User authentication: Sign up, log in, and logout functionalities.
+- User authentication: Sign up, log in, and log out functionalities.
 - Browse content: Explore a wide range of movies and TV shows fetched from the IMDb API.
 - Search functionality: Search for specific movies or TV shows based on titles, genres, or keywords.
 - Watch trailers: View trailers for selected movies or TV shows.
@@ -13,7 +13,9 @@ This project is a Netflix clone built using React and the IMDb API. It aims to r
 
 
 
-##Live Demo
+## Live Demo
+
+
 https://649d1777c665d134a3d58e75--netflixishwer.netlify.app/
 
 
