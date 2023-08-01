@@ -1,4 +1,4 @@
-![Screenshot (458)](https://github.com/ishwersharma13/netflix-clone/assets/103954615/e9080280-acdb-4578-84a9-fc751506fc2e)# netflix-clonea# Netflix Clone
+# netflix-clonea# Netflix Clone
 
 This project is a Netflix clone built using React and the IMDb API. It aims to recreate the look and feel of the popular streaming platform, Netflix, by fetching movie and TV show data from IMDb.
 
@@ -25,7 +25,7 @@ https://649d1777c665d134a3d58e75--netflixishwer.netlify.app/
 
 ## Login/Sign Uo Page
 
-![Uploading Screenshot (458).png…]()
+![Screenshot (458)](https://github.com/ishwersharma13/netflix-clone/assets/103954615/e9080280-acdb-4578-84a9-fc751506fc2e)
 
 
 ## Movie Page
