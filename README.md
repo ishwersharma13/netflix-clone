@@ -1,4 +1,4 @@
-# netflix-clonea# Netflix Clone
+Netflix Clone
 
 This project is a Netflix clone built using React and the IMDb API. It aims to recreate the look and feel of the popular streaming platform, Netflix, by fetching movie and TV show data from IMDb.
 
