@@ -1,6 +1,8 @@
 ## Netflix Clone
 
 This project is a Netflix clone built using React and the IMDb API. It aims to recreate the look and feel of the popular streaming platform, Netflix, by fetching movie and TV show data from IMDb.
+## Live Demo
+https://netflixclone8076.netlify.app/
 
 ## Features
 
@@ -11,13 +13,6 @@ This project is a Netflix clone built using React and the IMDb API. It aims to r
 - My List: Add movies or TV shows to a personal watchlist for easy access.
 - Responsive design: Optimized for various screen sizes and devices.
 
-
-
-## Live Demo
-
-
-
-https://649d1777c665d134a3d58e75--netflixishwer.netlify.app/
 
 ## Home Page
 
