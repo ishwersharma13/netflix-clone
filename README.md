@@ -2,8 +2,7 @@
 
 This project is a Netflix clone built using React and the IMDb API. It aims to recreate the look and feel of the popular streaming platform, Netflix, by fetching movie and TV show data from IMDb.
 ## Live Demo
-https://netflixclone8076.netlify.app/
-
+https://netflix-clone-kiww.vercel.app/
 ## Features
 
 - User authentication: Sign up, log in, and log out functionalities.
